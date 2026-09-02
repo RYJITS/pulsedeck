@@ -1,8 +1,18 @@
 # C2R PulseDeck
 
+## Statut de diffusion
+Projet explique sur Site Ma Methode: la fiche publique peut presenter son utilite, ses fonctions, son avancement et ses liens disponibles.
+
 ## Liens vers l'application
-- Lien public: non detecte
+- Application: non detecte
 - GitHub: [https://github.com/RYJITS/pulsedeck](https://github.com/RYJITS/pulsedeck)
+
+## Avancement du projet
+- Etat du projet: candidat public avec controles a finaliser.
+- Fonctionnement: non teste faute d'informations suffisantes.
+- Securite: OK pour une presentation publique.
+- Ma Methode: fiche explicative visible.
+- Publication externe: candidat public, validation finale separee.
 
 ## A quoi sert le projet
 C2R PulseDeck est actuellement un cahier des charges, pas encore une application executable. Le concept decrit un futur outil local qui devra recevoir une idee brute, la clarifier et produire une fiche projet prete a relire ou a publier.
